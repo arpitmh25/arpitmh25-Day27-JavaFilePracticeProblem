@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.employeepayroll.EmployeePayrollServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-17T18:11:18" hostname="ARPIT" time="0.032">
+  <properties/>
+  <testcase name="given3Employees_WhenWrittenToFile_ShouldMatchEmployeeEntries()" classname="com.bridgelabz.employeepayroll.EmployeePayrollServiceTest" time="0.032"/>
+  <system-out><![CDATA[EmployeeId: 1, EmployeeName: Binny Bansal, EmployeeSalary: 120000.0
+EmployeeId: 2, EmployeeName: Bhavesh Agarwal, EmployeeSalary: 150000.0
+EmployeeId: 3, EmployeeName: Karuna Nayar, EmployeeSalary: 200000.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
